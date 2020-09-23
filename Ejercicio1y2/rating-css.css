@@ -1,0 +1,20 @@
+.fa-smile {
+    color:#d2d2d2;;
+}
+.fa-smile:hover {
+    color:#EDB867;
+}
+
+body {
+    font-family:"Open Sans", Helvetica, Arial, sans-serif;
+    color:#555;
+    max-width:680px;
+    margin:0 auto;
+    padding:0 20px;
+  }
+  
+  .clearfix {
+    clear:both;
+  }
+  
+  .text-center {text-align:center;}
